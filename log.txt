@@ -1,0 +1,5 @@
+1	20151116	www.baidu.com	牛奶	1.5
+2	20151116	m.baidu.com	雾霾	2.5
+3	20151116	www.baidu.com	Seo	1.1
+4	20151116	www.baidu.com	seo	0.9
+5	20151212	baidu.cn	牛奶	1.1
