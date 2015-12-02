@@ -25,7 +25,7 @@ while(!feof($fp))
         $cnt[$a[3]]=array("amount"=>floatval($a[4]),"times"=>intval(1));  }
 }
 foreach($cnt as $k=>$v){
-    echo $k."&nbsp;".$v["amount"]/$v["times"]."<br>";
+    echo $k."\t".$v["amount"]/$v["times"]."<br>";
 }
 fclose($fp);
 ?>
